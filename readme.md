@@ -26,6 +26,7 @@ PHP资源汇总 Thanks to [ziadoz](https://github.com/ziadoz/awesome-php/)
 * [Laravel 4](http://laravel.com/) - 简洁优雅的 PHP 开发框架
 * [Aura PHP](http://auraphp.com/) - 独立组件的框架
 * [Yii2](https://github.com/yiisoft/yii2/) - 用于开发大型Web应用的高性能PHP框架
+* [Codeigniter](http://www.codeigniter.com/) - 是一个小巧但功能强大的 PHP 框架
 * [Nette](http://nette.org) - 同样是由独立组件构成的框架
 * [PPI Framework 2](http://www.ppi.io) - 一个交互性的框架
 * [Phalcon](http://phalconphp.com/en/) - 作为C扩展的高性能框架
